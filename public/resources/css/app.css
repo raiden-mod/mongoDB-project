@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+	font-family: "Lato";
+}
+
+body {
+	height: 100vh;
+	margin: 0;
+	padding: 0;
+}
+table, td, tr, th{
+	border: 1px solid black;
+}
+td{
+	margin-left: 10px;
+}
+.assgnmentBody{
+	width: 80%;
+	margin: 30px auto;
+}
+.table{
+	width: 100%;
+	margin: 20px 0;
+}
+.table table{
+	width: 100%;
+}
+/* #dataJson{
+	display: none;
+} */

@@ -1,0 +1,3 @@
+--MongoDb community version 
+--MongoDb compass
+--Xampp Apache server 
